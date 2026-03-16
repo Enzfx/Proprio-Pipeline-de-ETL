@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+# venv/
+
+# Dados
+data/
+
+# Outputs
+outputs/*
+!outputs/features/
+!outputs/features/kmer_features.csv
+
+# IDE
+.vscode/
